@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
  const Product = () => {
   return (
     <>
@@ -7,5 +8,7 @@
     </>
   );
 };
+
+
 
 export default Product;
